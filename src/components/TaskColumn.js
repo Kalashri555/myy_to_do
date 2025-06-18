@@ -1,5 +1,4 @@
 import React from 'react'
-import Todo from "../assets/check_mark.png"
 import "./TaskColumn.css";
 import TaskCard from './TaskCard';
 
